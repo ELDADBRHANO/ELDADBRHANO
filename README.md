@@ -1,3 +1,5 @@
+<div align="center">
+ 
 ### Hi there, My Name is Eldad 👋
 
  Full Stack Developer ⚡.
@@ -46,5 +48,5 @@ Here are some ideas to get you started:
 
 </p>
 
-
+</div>
 
